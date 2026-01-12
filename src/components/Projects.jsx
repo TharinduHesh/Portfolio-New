@@ -17,15 +17,14 @@ const Projects = () => {
       color: 'Navy Blue (#0F172A'
     },
     {
-  title: 'Cryptography Toolkit',
-  description: 'A GUI-based cryptographic toolkit built with Python and Tkinter. Combines secure messaging, file encryption, hash cracking, digital signatures, and steganography into a single educational application for hands-on learning of real-world cryptography.',
-  technologies: ['Python', 'Tkinter', 'Cryptography', 'Pillow'],
-  image: '/assets/images/crypto.png',
-  github: 'https://github.com/TharinduHesh/Crypto_toolkit',
-  demo: '#', 
-  color: '#ADD8E6'
-}
-,
+      title: 'Cryptography Toolkit',
+      description: 'A GUI-based cryptographic toolkit built with Python and Tkinter. Combines secure messaging, file encryption, hash cracking, digital signatures, and steganography into a single educational application for hands-on learning of real-world cryptography.',
+      technologies: ['Python', 'Tkinter', 'Cryptography', 'Pillow'],
+      image: '/assets/images/crypto.png',
+      github: 'https://github.com/TharinduHesh/Crypto_toolkit',
+      demo: '#', 
+      color: '#ADD8E6'
+    },
     {
       title: 'Secure Web Application for Information Security Policy Management',
       description: 'Developed and demonstrated a secure policy-awareness web application with AUP, compliance tracking, and secure coding practices for an organizational information security use case.',
@@ -34,18 +33,16 @@ const Projects = () => {
       github: 'https://github.com/TharinduHesh/Secure-Mind--DynamicBiz',
       demo: '#',
       color: ' #FFFF00'
-    }
-
+    },
     {
-  title: 'TaskFlow – Smart Task & To-Do Manager',
-  description: 'Designed and developed a modern productivity application that enables users to create, organize, and track daily tasks using priority levels, due dates, reminders, productivity insights, and customizable dark and light modes.',
-  technologies: ['JavaScript', 'React.js', 'Node.js', 'LocalStorage', 'CSS'],
-  image: '/assets/images/task.png',
-  github: 'https://github.com/TharinduHesh/Todo-manager-app',
-  demo: '#',
-  color: '#FF69B4'
-}
-
+      title: 'TaskFlow – Smart Task & To-Do Manager',
+      description: 'Designed and developed a modern productivity application that enables users to create, organize, and track daily tasks using priority levels, due dates, reminders, productivity insights, and customizable dark and light modes.',
+      technologies: ['JavaScript', 'React.js', 'Node.js', 'LocalStorage', 'CSS'],
+      image: '/assets/images/task.png',
+      github: 'https://github.com/TharinduHesh/Todo-manager-app',
+      demo: '#',
+      color: '#FF69B4'
+    }
   ];
 
   const containerVariants = {
