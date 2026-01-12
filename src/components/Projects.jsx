@@ -35,6 +35,17 @@ const Projects = () => {
       demo: '#',
       color: ' #FFFF00'
     }
+
+    {
+  title: 'TaskFlow – Smart Task & To-Do Manager',
+  description: 'Designed and developed a modern productivity application that enables users to create, organize, and track daily tasks using priority levels, due dates, reminders, productivity insights, and customizable dark and light modes.',
+  technologies: ['JavaScript', 'React.js', 'Node.js', 'LocalStorage', 'CSS'],
+  image: '/assets/task.png',
+  github: 'https://github.com/TharinduHesh/Todo-manager-app',
+  demo: '#',
+  color: '#FF69B4'
+}
+
   ];
 
   const containerVariants = {
